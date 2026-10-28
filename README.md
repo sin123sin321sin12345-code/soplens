@@ -54,5 +54,5 @@ The initial validation set will use team-owned tabletop recordings, synthetic eq
 ## Team
 
 - Team: ProofLine Lab
-- Team lead: 陳信
-- Team member: 黃捷思
+- Team lead: 黃捷思
+- Team member: 陳信

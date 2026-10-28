@@ -1,0 +1,10 @@
+{
+  "source_id": "BOM-RC-L42",
+  "source_type": "bom",
+  "incident_id": "INC-WC-001",
+  "revision": "C",
+  "status": "active",
+  "assembly_step": "connector placement",
+  "required_part_number": "CONN-06-BLU",
+  "stage_i_disclosure": "This BOM is synthetic and team-authored."
+}

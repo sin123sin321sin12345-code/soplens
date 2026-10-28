@@ -1,0 +1,10 @@
+{
+  "source_id": "E0008",
+  "source_type": "event",
+  "incident_id": "INC-WC-001",
+  "timestamp": "2026-10-28T10:42:14.540+08:00",
+  "event_type": "barcode_scan",
+  "part_number": "CONN-04-BLK",
+  "tray_id": "B4",
+  "stage_i_disclosure": "This event is synthetic."
+}

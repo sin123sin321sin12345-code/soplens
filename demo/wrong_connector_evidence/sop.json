@@ -1,0 +1,11 @@
+{
+  "source_id": "SOP-R62-S8",
+  "source_type": "sop",
+  "incident_id": "INC-WC-001",
+  "revision": "6.2",
+  "status": "active",
+  "step_id": "S8",
+  "instruction": "Verify the connector part number against the active BOM before seating.",
+  "mismatch_action": "Hold the assembly step and request human inspection.",
+  "stage_i_disclosure": "This SOP is synthetic and team-authored."
+}

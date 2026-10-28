@@ -1,0 +1,10 @@
+{
+  "source_id": "F0142",
+  "source_type": "frame",
+  "incident_id": "INC-WC-001",
+  "timestamp": "2026-10-28T10:42:14.200+08:00",
+  "assembly_step": "connector placement",
+  "observed_part_number": "CONN-04-BLK",
+  "observation_method": "synthetic manual annotation",
+  "stage_i_disclosure": "This record is not computer-vision model output."
+}

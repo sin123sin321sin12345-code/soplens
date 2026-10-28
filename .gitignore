@@ -1,0 +1,69 @@
+# Operating system and editor files
+.DS_Store
+._*
+Thumbs.db
+~$*
+*.swp
+*.swo
+*.tmp
+*.temp
+*.log
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets/
+private/
+
+# Personal and legal documents
+signed/
+consent/
+**/*Consent*
+**/*consent*
+**/*同意書*
+**/*身分證*
+**/*護照*
+
+# Local build, organizer references, and validation artifacts
+tmp/
+.codex-finalizer/
+output/
+source/
+assets/
+
+# Internal submission operations
+submission_text.md
+compliance_checklist.md
+proposal_strategy_zh-TW.md
+assumptions.json
+
+# Dependencies and caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Model files and raw data
+models/
+*.safetensors
+*.gguf
+*.onnx
+*.pt
+*.pth
+*.ckpt
+data/raw/
+data/private/
+
+# Raw media
+*.mov
+*.mp4
+*.mkv

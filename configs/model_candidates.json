@@ -1,0 +1,26 @@
+{
+  "status": "Stage I candidates; not locked dependencies",
+  "hardware_baseline": "One ASUS UGen Intel Arc Pro B70 32GB",
+  "models": [
+    {
+      "role": "visual evidence",
+      "name": "Qwen2.5-VL-7B-Instruct",
+      "license": "Apache 2.0"
+    },
+    {
+      "role": "incident reasoning",
+      "name": "Qwen3-8B",
+      "license": "Apache 2.0"
+    },
+    {
+      "role": "speech evidence",
+      "name": "Whisper large-v3",
+      "license": "MIT"
+    },
+    {
+      "role": "document retrieval",
+      "name": "BAAI/bge-small-en-v1.5",
+      "license": "MIT"
+    }
+  ]
+}
